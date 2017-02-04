@@ -1,0 +1,15 @@
+{
+  "name": "md",
+  "version": "1.0.0",
+  "description": "mongodb nodejs app ",
+  "main": "index.js",
+  "dependencies": {
+    "mongodb": "^2.2.22"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
