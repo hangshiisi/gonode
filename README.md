@@ -16,4 +16,13 @@ sudo apt-get install mongodb-10gen
 ```bash 
 
 
-``` 
+```
+
+```bash 
+
+
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects
+```
+
+
+
